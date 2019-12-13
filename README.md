@@ -3,7 +3,7 @@ Preconfigured winston with syntax coloring and file logging
 ## Usage sample:
 From command line:
 ```
-npm i stormwinston
+npm install --save stormwinston
 ```
 Then from the code: 
 ```
